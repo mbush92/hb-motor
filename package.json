@@ -27,6 +27,6 @@
     "babel-core": "^6.13.2"
   },
   "dependencies": {
-    "johnny-five": "^0.10.0"
+    "bonescript": "^0.5.0",
   }
 }
