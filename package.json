@@ -1,0 +1,32 @@
+{
+  "name": "hb-motor",
+  "version": "1.0.0",
+  "description": "Motor controller for stepper motor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbush92/hb-motor.git"
+  },
+  "keywords": [
+    "stepper",
+    "beaglebone",
+    "easy",
+    "driver"
+  ],
+  "author": "Matthew Bush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbush92/hb-motor/issues"
+  },
+  "homepage": "https://github.com/mbush92/hb-motor#readme",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2"
+  },
+  "dependencies": {
+    "johnny-five": "^0.10.0"
+  }
+}
